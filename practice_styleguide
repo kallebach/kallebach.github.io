@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Practice Site Style Guide-->
+<!--Header--> 
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Style Guide for Kyle Allebach</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:ital@0;1&family=Radio+Canada&family=Work+Sans:wght@400;500;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styleguide.css">
+  </head>
+  <body>
+    <h1>Website Style Guide</h1>
+    <div class="container">
+      <h2>Colors</h2>
+      <div class="color-container">
+        <div class="color-panel eagles-green">
+          <p class="color-label" >Midnight Green</p>
+          <p class="color-hex">#004C54</p>
+        </div>
+        <div class="color-panel silver">
+          <p class="color-label" >Silver</p>
+          <p class="color-hex">#A5ACAF</p>
+        </div>
+        <div class="color-panel black">
+          <p class="color-label" >Black</p>
+          <p class="color-hex">#000000</p>
+        </div>
+        <div class="color-panel charcoal">
+          <p class="color-label" >Charcoal</p>
+          <p class="color-hex">#565A5C</p>
+        </div>
+        <div class="color-panel white">
+          <p class="color-label" >White</p>
+          <p class="color-hex">#FFFFFF</p>
+        </div>
+        <div class="color-panel kelly-green">
+          <p class="color-label" >Kelly Green</p>
+          <p class="color-hex">#4CBB17</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <h2>Fonts</h2>
+      <div class="font-container">
+        <div class="font-panel">
+          <p class="font-label radio-canada">Radio Canada</p>
+          <p class="regular radio-canada">The quick brown fox jumps over the lazy dog.</p>
+          <p class="bold radio-canada">The quick brown fox jumps over the lazy dog.</p>
+          <p class="italic radio-canada">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+        <div class="font-panel">
+          <p class="font-label merriweather">Merriweather</p>
+          <p class="regular merriweather">The quick brown fox jumps over the lazy dog.</p>
+          <p class="bold merriweather">The quick brown fox jumps over the lazy dog.</p>
+          <p class="italic merriweather">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+        <div class="font-panel">
+          <p class="font-label work-sans">Work Sans</p>
+          <p class="regular work-sans">The quick brown fox jumps over the lazy dog.</p>
+          <p class="bold work-sans">The quick brown fox jumps over the lazy dog.</p>
+          <p class="italic work-sans">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <h2>Text Styles</h2>
+      <div class="text-container">
+        <div class="text-panel">
+          <h1>H1: Main page heading</h1>
+          <ul>
+            <li>Font-weight: 700 (bold)</li>
+            <li>Font-size: 26px</li>
+            <li>Font-family: Merriweather</li>
+          </ul>
+        </div>
+        <div class="text-panel">
+          <h2>H2: Subheading</h2>
+          <ul>
+            <li>Font-weight: 500</li>
+            <li>Font-size: 18px</li>
+            <li>Font-family: Radio Canada</li>
+          </ul>
+        </div>
+        <div class="text-panel">
+          <p>P: Paragraph text</p>
+          <ul>
+            <li>Font-weight: 400 (regular)</li>
+            <li>Font-size: 14px</li>
+            <li>Font-family: Work Sans</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
