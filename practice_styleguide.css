@@ -1,0 +1,105 @@
+body {
+    font-family: 'Radio Canada', sans-serif;
+    margin: 0 10%;
+  }
+  
+  .container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+  
+  .eagles-green {
+    background-color: #004C54;
+    color: #fff;
+  }
+  
+  .silver {
+    background-color: #A5ACAF;
+    color: #000;
+  }
+  
+  .black {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .charcoal {
+    background-color: #565A5C;
+    color: #fff;
+  }
+  
+  .white {
+    border: solid 1px #AAA;
+    background-color: #FFF;
+    color: #000;
+  }
+  
+  .kelly-green {
+    background-color: #4CBB17;
+    color: #FFF;
+  }
+  
+  .font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .merriweather {
+    font-family: 'Merriweather', sans-serif;
+  }
+  
+  .radio-canada {
+    font-family: 'Radio Canada', monospace;
+  }
+  
+  .work-sans {
+    font-family: 'Work Sans', sans-serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Merriweather', sans-serif;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Radio Canada', monospace;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Work Sans', sans-serif;
+  }
